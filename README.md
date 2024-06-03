@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Johab and I'm a, from Brazil</h2>
+<h2 align="left">Hi 👋! My name is Johab and I'm a from Brazil</h2>
 
 ###
 
@@ -6,12 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=johabfreitas&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=johabfreitas&show_icons=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-
-
-###
-
-<img  style="border-radius: 50%;" align="right" height="150" src="https://avatars.githubusercontent.com/u/68203766?s=400&u=8ab6b4d375e8f556c497d8b4e1e782152e83fa97&v=4"/>	
 
 ###
 
